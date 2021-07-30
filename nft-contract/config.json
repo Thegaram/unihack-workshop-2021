@@ -1,0 +1,10 @@
+{
+  "main": "./contracts/WorkshopNFT.json",
+  "deploy": "./build/contracts/WorkshopNFT.json",
+  "compilers": {
+    "cfxtruffle": "0.0.8",
+    "solc": "0.8.4",
+    "evmVersion": "istanbul"
+  },
+  "linter": "solhint"
+}
